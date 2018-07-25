@@ -4,7 +4,7 @@
 [Watson Visual Recognition Service](assets/ibm-watson-visual-api.pdf)
 
 ## IBM Cloud Sign up for this event only
-[IBM Cloud](https://ibm.biz/BdYcHK)
+[IBM Cloud](https://ibm.biz/vr072518)
 
 ## Additional Links
 1. [Watson Visual Recognition Service Home](https://www.ibm.com/watson/services/visual-recognition/)
