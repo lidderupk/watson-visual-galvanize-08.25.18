@@ -23,7 +23,7 @@
 
     `export watson_visual_directory_root="/Users/<username>/Desktop/galvanize-07.24.18"`
 
-2. Set environment variable for visual model ID 
+2. Set environment variable for the visual service secret key. You can get this from the `credentials` tab in the visual recognition service on IBM cloud dashboard after your have created the visual recognition resource.
 
     `export watson_visual_key=<secret_key>`
 
