@@ -12,6 +12,7 @@
 3. [API for different SDKs](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/curl.html?curl)
 4. [API Explorer ](https://watson-api-explorer.ng.bluemix.net/apis/visual-recognition-v3)
 5. [IBM Data Studio](https://dataplatform.cloud.ibm.com/home?context=analytics)
+6. [IBM Cloud Dashboard](https://console.bluemix.net/dashboard/apps/)
 
 ## CURL commands for lunch and learn
 
